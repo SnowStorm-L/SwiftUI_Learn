@@ -1,10 +1,23 @@
-# Chapter_1
 
-SwiftUI基础
-了解如何使用SwiftUI从简单的视图中组合出丰富的视图，设置数据流并构建导航，同时在Xcode的预览中观看它的展开。
+# 基本
+- 初始教程来自: https://developer.apple.com/tutorials/swiftui
+
+开始之前总览了一下
+一个章节的内容太多了, 即使功能上有关联, 还是决定每部分都单独新键一个工程, 这样对知识点掌握比较清晰.
+
+## Chapter_1
+
+### Section1
 
 1. 文字显示
 2. 多机型预览
 3. 图片显示
 4. 简单布局
 5. MapKit使用
+
+### Section2
+
+1. 根视图指定
+2. Json 解析, 加载
+3. List 显示Row ( Json数据 )
+4. 导航页面跳转, 数据传递

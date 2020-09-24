@@ -29,5 +29,11 @@
 
 ## Chapter_2
 
+### Section 1
+
 1. 使用 GeometryReader 和 Path 绘制形状和路径
 2. ZStack 堆叠布局
+
+### Section 2
+
+1. 动画 以及 一些路线绘制
